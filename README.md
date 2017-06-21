@@ -1,1 +1,1 @@
-# SMS_API
+# sms-api
